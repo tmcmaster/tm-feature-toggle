@@ -1,0 +1,7 @@
+{
+  "name": "tm-feature-toggle",
+  "short_name": "tm-feature-toggle",
+  "description": "Application to help manage feature toggles",
+  "start_url": "/",
+  "display": "standalone"
+}
